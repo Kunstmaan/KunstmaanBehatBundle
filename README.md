@@ -21,4 +21,4 @@ The FailedScreenshotSubContext offers a takeScreenshotAfterFailedStep($event) de
 
 ### Radio Button
 
-The RadioButtonSubContect offers support for radio button testing in your features.
+The RadioButtonSubContext offers support for radio button testing in your features.
